@@ -1,20 +1,20 @@
 Ask your classmate to fill in the question and commit with their laptop, not yours.
 
-Learned Programming before Tecky?
+Learned Programming before Tecky? Yes, Rita.
 
-Started / Running a Startup?
+Started / Running a Startup? 
 
 Had an unusual Job?
 
-Prefer Coffee or Tea?
+Prefer Coffee or Tea? 
 
 Went to Working Holiday?
 
-Good in Maths?
+Good in Maths? No, Rita
 
 Desperately need a Boyfriend / Girlfriend?
 
-Want to be Hacker?
+Want to be Hacker? 
 
 Love Sports?
 
