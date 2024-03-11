@@ -8,7 +8,7 @@ Had an unusual Job?
 
 Prefer Coffee or Tea? 
 
-Went to Working Holiday?
+Went to Working Holiday? No[CM]
 
 Good in Maths? amazingly 
 
@@ -16,6 +16,6 @@ Desperately need a Boyfriend / Girlfriend?
 
 Want to be Hacker? 
 
-Love Sports? 
+Love Sports? Yes[CM]
 
 Fans of Matrix (the movie)?  
