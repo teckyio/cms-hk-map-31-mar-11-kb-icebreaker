@@ -1,31 +1,21 @@
 Ask your classmate to fill in the question and commit with their laptop, not yours.
 
 Learned Programming before Tecky?
-No Bill
 
 Started / Running a Startup?
-No Bill
 
-Had an unusual Job?
-No Bill
+Had an unusual Job? No [CM]
 
-Prefer Coffee or Tea?
-Coffee Bill
+Prefer Coffee or Tea? Coffe for sure [CM]
 
 Went to Working Holiday?
-No Bill
 
-Good in Maths?
-No Bill
+Good in Maths? Yes [CM]
 
 Desperately need a Boyfriend / Girlfriend?
-No need Bill
 
-Want to be Hacker?
-Unable Bill
+Want to be Hacker? No [CM]
 
-Love Sports?
-Football Bill
+Love Sports? yeah [CM]
 
-Fans of Matrix (the movie)?
-No Bill
+Fans of Matrix (the movie)? Yes [CM]
