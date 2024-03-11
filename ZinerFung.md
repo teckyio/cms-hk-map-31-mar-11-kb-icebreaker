@@ -6,11 +6,11 @@ Started / Running a Startup?Running
 
 Had an unusual Job?yes
 
-Prefer Coffee or Tea?Coffee
+Prefer Coffee or Tea?Coffee. Manson
 
 Went to Working Holiday?No
 
-Good in Maths?SAME
+Good in Maths?
 
 Desperately need a Boyfriend / Girlfriend?Girlfiend
 
