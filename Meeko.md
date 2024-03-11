@@ -1,16 +1,16 @@
 Ask your classmate to fill in the question and commit with their laptop, not yours.
 
-Learned Programming before Tecky? 
+Learned Programming before Tecky?
 
 Started / Running a Startup?
 
 Had an unusual Job?
 
-Prefer Coffee or Tea? Tea. Manson
+Prefer Coffee or Tea?
 
 Went to Working Holiday?
 
-Good in Maths? I was awarded a trophy in HK Maths Challenge (ge0ff)
+Good in Maths?
 
 Desperately need a Boyfriend / Girlfriend?
 
