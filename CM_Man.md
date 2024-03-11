@@ -8,14 +8,14 @@ Had an unusual Job?
 
 Prefer Coffee or Tea? Coffee MY
 
-Went to Working Holiday?
+Went to Working Holiday? No MY
 
-Good in Maths?
+Good in Maths? No 
 
-Desperately need a Boyfriend / Girlfriend?
+Desperately need a Boyfriend / Girlfriend? 
 
 Want to be Hacker?
 
-Love Sports?
+Love Sports? Yes MY
 
-Fans of Matrix (the movie)?
+Fans of Matrix (the movie)? Yes MY
