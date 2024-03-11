@@ -2,20 +2,20 @@ Ask your classmate to fill in the question and commit with their laptop, not you
 
 Learned Programming before Tecky? No, Geoff
 
-Started / Running a Startup?
+Started / Running a Startup?running jeff
 
-Had an unusual Job?
+Had an unusual Job?NO jeff
 
-Prefer Coffee or Tea?Coffee
+Prefer Coffee or Tea?Coffee ziner
 
-Went to Working Holiday?
+Went to Working Holiday?No ziner
 
-Good in Maths?SAME
+Good in Maths?SAME ziner
 
-Desperately need a Boyfriend / Girlfriend?
+Desperately need a Boyfriend / Girlfriend?Girlfiend ziner
 
-Want to be Hacker?
+Want to be Hacker?No ziner
 
-Love Sports?
+Love Sports?No ziner
 
-Fans of Matrix (the movie)?
+Fans of Matrix (the movie)?yes ziner
