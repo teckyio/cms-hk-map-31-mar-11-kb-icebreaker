@@ -6,11 +6,11 @@ Started / Running a Startup?
 
 Had an unusual Job?
 
-Prefer Coffee or Tea?
+Prefer Coffee or Tea? Tea. Manson
 
 Went to Working Holiday?
 
-Good in Maths?
+Good in Maths? I was awarded a trophy in HK Maths Challenge (ge0ff)
 
 Desperately need a Boyfriend / Girlfriend?
 
