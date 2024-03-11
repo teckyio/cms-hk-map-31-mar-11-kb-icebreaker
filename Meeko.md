@@ -4,18 +4,18 @@ Learned Programming before Tecky?
 
 Started / Running a Startup?
 
-Had an unusual Job?
+Had an unusual Job? No [CM]
 
-Prefer Coffee or Tea?
+Prefer Coffee or Tea? Coffe for sure [CM]
 
 Went to Working Holiday?
 
-Good in Maths?
+Good in Maths? Yes [CM]
 
 Desperately need a Boyfriend / Girlfriend?
 
-Want to be Hacker?
+Want to be Hacker? No [CM]
 
-Love Sports?
+Love Sports? yeah [CM]
 
-Fans of Matrix (the movie)?
+Fans of Matrix (the movie)? Yes [CM]
