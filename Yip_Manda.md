@@ -10,12 +10,12 @@ Prefer Coffee or Tea?
 
 Went to Working Holiday?
 
-Good in Maths?
+Good in Maths? Yes[CM]
 
 Desperately need a Boyfriend / Girlfriend?
 
 Want to be Hacker?
 
-Love Sports?
+Love Sports? Yes[CM]
 
 Fans of Matrix (the movie)?
