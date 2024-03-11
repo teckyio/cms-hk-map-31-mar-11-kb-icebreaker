@@ -2,7 +2,6 @@ Ask your classmate to fill in the question and commit with their laptop, not you
 
 Learned Programming before Tecky? yes
 
-<<<<<<< HEAD
 Started / Running a Startup? Not yet 
 
 Had an unusual Job? Of Course Not
@@ -20,22 +19,3 @@ Want to be Hacker? tyring to be
 Love Sports? love playing all sports
 
 Fans of Matrix (the movie)? will watch in the future!
-=======
-Started / Running a Startup?Running
-
-Had an unusual Job?yes
-
-Prefer Coffee or Tea?Coffee
-
-Went to Working Holiday?No
-
-Good in Maths?SAME
-
-Desperately need a Boyfriend / Girlfriend?Girlfiend
-
-Want to be Hacker?No
-
-Love Sports?No
-
-Fans of Matrix (the movie)?yes
->>>>>>> ab097ba588ad3c4d149e79d75164d01f62756448
