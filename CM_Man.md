@@ -1,6 +1,6 @@
 Ask your classmate to fill in the question and commit with their laptop, not yours.
 
-Learned Programming before Tecky?
+Learned Programming before Tecky? yes
 
 Started / Running a Startup?
 
@@ -19,5 +19,3 @@ Want to be Hacker?
 Love Sports?
 
 Fans of Matrix (the movie)?
-
-
