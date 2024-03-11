@@ -2,10 +2,15 @@ Ask your classmate to fill in the question and commit with their laptop, not you
 
 Learned Programming before Tecky? No, Geoff
 
+<<<<<<< HEAD
 Started / Running a Startup? 
+=======
+Started / Running a Startup?running jeff
+>>>>>>> bc3ff08e54bdc0f2952e44a92f14269ae0959dc8
 
-Had an unusual Job?
+Had an unusual Job?NO jeff
 
+<<<<<<< HEAD
 Prefer Coffee or Tea? coffee (phoebe) 
 
 Went to Working Holiday? No (phoebe )
@@ -13,9 +18,18 @@ Went to Working Holiday? No (phoebe )
 Good in Maths? ok la (phoebe)
 
 Desperately need a Boyfriend / Girlfriend? OK (phoebe)
+=======
+Prefer Coffee or Tea?Coffee ziner
 
-Want to be Hacker?
+Went to Working Holiday?No ziner
 
-Love Sports?
+Good in Maths?SAME ziner
 
-Fans of Matrix (the movie)?
+Desperately need a Boyfriend / Girlfriend?Girlfiend ziner
+>>>>>>> bc3ff08e54bdc0f2952e44a92f14269ae0959dc8
+
+Want to be Hacker?No ziner
+
+Love Sports?No ziner
+
+Fans of Matrix (the movie)?yes ziner
