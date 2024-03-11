@@ -1,8 +1,8 @@
 Ask your classmate to fill in the question and commit with their laptop, not yours.
 
-Learned Programming before Tecky?
+Learned Programming before Tecky? no(phoebe)
 
-Started / Running a Startup?
+Started / Running a Startup? no(phoebe)
 
 Had an unusual Job?
 

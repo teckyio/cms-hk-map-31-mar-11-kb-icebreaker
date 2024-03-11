@@ -2,7 +2,7 @@ Ask your classmate to fill in the question and commit with their laptop, not you
 
 Learned Programming before Tecky? Never, Geoff
 
-Started / Running a Startup? 
+Started / Running a Startup? no, Phoebe
 
 Had an unusual Job? 
 

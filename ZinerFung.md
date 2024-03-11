@@ -2,17 +2,17 @@ Ask your classmate to fill in the question and commit with their laptop, not you
 
 Learned Programming before Tecky? No, Geoff
 
-Started / Running a Startup?
+Started / Running a Startup? 
 
 Had an unusual Job?
 
-Prefer Coffee or Tea?Coffee
+Prefer Coffee or Tea? coffee (phoebe) 
 
-Went to Working Holiday?
+Went to Working Holiday? No (phoebe )
 
-Good in Maths?SAME
+Good in Maths? ok la (phoebe)
 
-Desperately need a Boyfriend / Girlfriend?
+Desperately need a Boyfriend / Girlfriend? OK (phoebe)
 
 Want to be Hacker?
 

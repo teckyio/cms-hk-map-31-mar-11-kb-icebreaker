@@ -1,21 +1,21 @@
 Ask your classmate to fill in the question and commit with their laptop, not yours.
 
-Learned Programming before Tecky? yes
+Learned Programming before Tecky? Yes (phoebe)
 
-Started / Running a Startup? no
+Started / Running a Startup? 
 
-Had an unusual Job? yes
+Had an unusual Job? 
 
-Prefer Coffee or Tea? tea
+Prefer Coffee or Tea? 
 
-Went to Working Holiday? no
+Went to Working Holiday? 
 
-Good in Maths? ok 
+Good in Maths? 
 
-Desperately need a Boyfriend / Girlfriend? no
+Desperately need a Boyfriend / Girlfriend? 
 
-Want to be Hacker? yes
+Want to be Hacker? 
 
-Love Sports? yes, badminton
+Love Sports?
 
-Fans of Matrix (the movie)? yes
+Fans of Matrix (the movie)? 
