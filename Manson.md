@@ -3,23 +3,23 @@ Ask your classmate to fill in the question and commit with their laptop, not you
 Learned Programming before Tecky? 
 Tony:Yes, long time age
 
-Started / Running a Startup?
+Started / Running a Startup? Yes, Rita
 
-Had an unusual Job?
+Had an unusual Job? No, Rita
 
-Prefer Coffee or Tea?
+Prefer Coffee or Tea? Tea, Rita
 
-Went to Working Holiday?
+Went to Working Holiday? No, Rita
 
-Good in Maths?
+Good in Maths? No, Rita
 
-Desperately need a Boyfriend / Girlfriend?
+Desperately need a Boyfriend / Girlfriend? No, Rita
 
-Want to be Hacker?
+Want to be Hacker? No, Rita
 
-Love Sports?
+Love Sports? No, Rita
 
-Fans of Matrix (the movie)?
+Fans of Matrix (the movie)? No, Rita
 
 
 Hello~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
