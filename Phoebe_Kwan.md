@@ -2,11 +2,7 @@ Ask your classmate to fill in the question and commit with their laptop, not you
 
 Learned Programming before Tecky? Never, Geoff
 
-<<<<<<< HEAD
-Started / Running a Startup? no, Phoebe
-=======
 Started / Running a Startup? running/ziner
->>>>>>> bc3ff08e54bdc0f2952e44a92f14269ae0959dc8
 
 Had an unusual Job? no/ziner
 
